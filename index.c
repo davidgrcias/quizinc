@@ -270,5 +270,6 @@ void playGame(User **userList) {
 
     printf("\n> Press Any Key to Back to Menu\n");
 
+    getch();
     main();
 }
